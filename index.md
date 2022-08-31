@@ -3,7 +3,8 @@
 ## Favorite things about CS 193
 - The memes in the presentations
 - The jokes
-- Actually learning about the terminal
+- Actually learning about the terminal (helped a bunch on the CS180 lab)
+- Learning to use github
 
 ## Welcome to GitHub Pages
 
