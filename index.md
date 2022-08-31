@@ -1,5 +1,10 @@
 # Nathan Crocker's First CS193 Homework
 
+## Favorite things about CS 193
+- The memes in the presentations
+- The jokes
+- Actually learning about the terminal
+
 ## Welcome to GitHub Pages
 
 1. You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
